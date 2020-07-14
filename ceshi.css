@@ -1,0 +1,11 @@
+.biao #f02{
+	display: none;
+}
+.biao #f02 a{
+	display: block;
+	background-color: #f00;
+
+}
+.biao #f02 a:hover{
+	background-color: #f5f5f5;
+}

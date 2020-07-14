@@ -1,0 +1,138 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	
+}
+a{
+	text-decoration: none;
+}
+h1{
+	 width: 1400px;
+	  height: 240px;
+	  margin-right:30px;
+	color: #73f;
+	text-align: center;
+	background: url(images/13.png) repeat-x;
+}
+/*首部--智能家居*/
+span{
+	margin-left: 450px;
+
+}
+.span1{
+    margin-left: 140px;
+}
+/*文字*/
+strong{
+     font-family: "微软雅黑";
+	font-size: 16px;
+	
+}
+p{
+	margin-left: 15px;
+}
+img{
+    height: 290px;
+   width: 650px;
+   margin-left:30px;
+   padding-right: 50px;
+   float: left;
+   
+}
+.img2{
+	 height: 490px;
+   width: 680px;
+   margin-right:30px;
+   padding-left: 50px;
+   float:right;
+}
+.one{
+	
+	width: 100%;
+	height: 100%;
+	
+}
+ul{
+	width: 1350px;
+	height: 34px;
+	background-color: #344;
+	
+}
+li{ 
+   
+	font-size: 24px;
+	width: 140px;
+	height: 34px;
+	color: #000;
+	background: url(images/tit_bg2.jpg) repeat-x;
+	float: left;
+	margin-left: 15px; 
+	text-align: center;
+
+}
+.li{
+	width: 230px;	
+}
+.li1{
+	width: 180px;
+}
+/*下拉*/
+.biao,.fen #f02{
+	display: none;
+}
+.biao,.fen #f02 a{
+	display: block;
+	background-color: #f00;
+
+}
+.biao,.fenss #f02 a:hover{
+	background-color: #f5f5f5;
+}
+/*登录*/
+.lideng,a:visited{
+  background-color:#344;
+	color:#999;
+
+}
+/*家居分类*/
+.fen{
+	background-color: #777;
+}
+/*注销*/
+.li3{
+	width: 100px;
+	  background-color:#344;
+	color: #ff5;
+	
+}
+/*鼠标经过效果*/
+a:hover{
+	color:#00f; 
+}
+/*访问后*/
+/*a:visited{
+	color:#0f0;
+}*/
+.li2,li{
+	background: #88f;
+	list-style: none;
+	color: #555;
+}
+a{
+	text-decoration: none;
+}
+/*版权*/
+#banquan{
+                height: 40px;
+                line-height: 40px;
+                position: fixed;
+                bottom: 0;
+                width: 100%;
+                text-align: center;
+                background: #333;
+                color: #fff;
+                font-family: Arial;
+                font-size: 12px;
+                letter-spacing: 1px;
+            }
